@@ -1,6 +1,7 @@
 # electron-react-tutorial
 
-This project is a learning resource designed to show how Electron, React, and webpack can work together.
+This project is built off the [following template](https://github.com/Agrosis/electron-react-tutorial).
+
 
 ### Instructions
 
@@ -11,3 +12,9 @@ npm run-script watch
 # open a new terminal
 npm start
 ```
+
+### TO DO
+
+Loading images and fonts is still being troublesome. [here](https://webpack.js.org/guides/asset-management/#loading-images) is the resource on how to do it.
+
+
